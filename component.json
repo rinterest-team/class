@@ -1,0 +1,10 @@
+{
+  "name": "class",
+  "repo": "rinterest-team/class",
+  "description": "Simple JavaScript inheritance implement",
+  "version": "0.1.0",
+  "keywords": ["class", "extend", "inheritance"],
+  "scripts": ["index.js"],
+  "files": ["lib/**"],
+  "license": "MIT"
+}
